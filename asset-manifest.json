@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/routebuilder/static/css/main.5f361e03.chunk.css",
+    "main.js": "/routebuilder/static/js/main.55dd8edd.chunk.js",
+    "main.js.map": "/routebuilder/static/js/main.55dd8edd.chunk.js.map",
+    "runtime-main.js": "/routebuilder/static/js/runtime-main.c76b3d47.js",
+    "runtime-main.js.map": "/routebuilder/static/js/runtime-main.c76b3d47.js.map",
+    "static/js/2.3eb7d134.chunk.js": "/routebuilder/static/js/2.3eb7d134.chunk.js",
+    "static/js/2.3eb7d134.chunk.js.map": "/routebuilder/static/js/2.3eb7d134.chunk.js.map",
+    "index.html": "/routebuilder/index.html",
+    "precache-manifest.e4495d8158aeba61056a21f78b46e28e.js": "/routebuilder/precache-manifest.e4495d8158aeba61056a21f78b46e28e.js",
+    "service-worker.js": "/routebuilder/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/routebuilder/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3eb7d134.chunk.js.LICENSE.txt": "/routebuilder/static/js/2.3eb7d134.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/routebuilder/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c76b3d47.js",
+    "static/js/2.3eb7d134.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.55dd8edd.chunk.js"
+  ]
+}
